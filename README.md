@@ -10,3 +10,7 @@
 <p><a href="">CheckList</a></p>
 <h1>desctop... </h1>
 <p><a href="https://lenochka28yan2.testrail.io/index.php?/tests/view/1&group_by=cases:section_id&group_order=asc&group_id=1">Testcase</a></p>
+<h1>desctop... </h1>
+<p><a href="https://lenochka28yan2.testrail.io/index.php?/tests/view/2&group_by=cases:section_id&group_order=asc&group_id=1">Testcase</a></p>
+<h1>desctop... </h1>
+<p><a href="https://lenochka28yan2.testrail.io/index.php?/tests/view/3&group_by=cases:section_id&group_order=asc&group_id=1">Testcase</a></p>
